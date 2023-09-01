@@ -26,4 +26,5 @@ The file `arabic.txt` contains the arabic language stop words. The text file nee
 
 ## Technologies Used
 
-1. python
+1. Python
+2. Jupyter Notebook
