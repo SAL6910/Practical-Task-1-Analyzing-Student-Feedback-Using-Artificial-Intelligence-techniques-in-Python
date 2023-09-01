@@ -19,6 +19,10 @@ In this assessment, I've analyzed Student Feedback Using Artificial Intelligence
 
 The PPT presentation includes all the findings and visualizations.
 
+## Extra Files
+
+The file `arabic.txt` contains the arabic language stop words. The text file needs to be in the same directory as that of the jupyter notebook file.
+
 
 ## Technologies Used
 
